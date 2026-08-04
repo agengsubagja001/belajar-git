@@ -5,4 +5,4 @@ clone project git/
 /log.txt
 
 # Mengabaikan semua file HTML di seluruh project
-*.html
+/index.js
