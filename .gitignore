@@ -3,7 +3,4 @@ clone project git/
 
 # Mengabaikan file log.txt di root project
 /log.txt
-
-# Mengabaikan semua file HTML di seluruh project
-index.js
-style.css
+index.ts
