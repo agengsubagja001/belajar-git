@@ -4,3 +4,6 @@ clone project git/
 # Mengabaikan file log.txt di root project
 /log.txt
 index.ts
+
+# mengabaikan semua file dengan ekstensi .py
+*.py
