@@ -1,7 +1,8 @@
-# mengecualikan folder
+# Mengabaikan folder bernama "clone project git"
 clone project git/
-.txt
 
-# #mengecualikan file (semua file dengan ekstensi tertentu)
-# *.html
+# Mengabaikan file log.txt di root project
+/log.txt
 
+# Mengabaikan semua file HTML di seluruh project
+*.html
