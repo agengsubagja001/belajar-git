@@ -3,4 +3,4 @@ function loadData() {
     name: "Ageng",
     age: 20,
     address: "Indonesia",
-  };
+  }};
